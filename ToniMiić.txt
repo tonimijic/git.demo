@@ -1,0 +1,6 @@
+Dodao sam echo toni mijic readme.txt
+pa sam napravio git add readme.txt
+ pa sam provjerio git status
+,nakon toga sam commitao
+,pa sam na github napravio poveznicu i prebacio ovaj repository u taj git.demo,
+pa sam sa git reemote provjerio dal pise origin.
