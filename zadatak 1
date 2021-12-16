@@ -1,0 +1,5 @@
+
+
+a=int(input("Upisite broj: "))
+b=int(input("Upisite broj: "))
+print(a*b)

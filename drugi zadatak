@@ -1,0 +1,16 @@
+
+a=int(input("upisite broj: "))
+
+if a%2==0:
+  print("paran")
+  if a>0:
+    print("pozitivan")
+  else:
+    print("negativan")
+else:
+  print("neparan")
+  if a>0:
+    print("pozitivan")
+  else:
+    print("negativan")
+
